@@ -1,0 +1,64 @@
+PODS:
+  - alice (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - open_file (0.0.1):
+    - Flutter
+  - package_info (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - "permission_handler (4.4.0+hotfix.4)":
+    - Flutter
+  - sensors (0.0.1):
+    - Flutter
+  - share (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - alice (from `.symlinks/plugins/alice/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - open_file (from `.symlinks/plugins/open_file/ios`)
+  - package_info (from `.symlinks/plugins/package_info/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - sensors (from `.symlinks/plugins/sensors/ios`)
+  - share (from `.symlinks/plugins/share/ios`)
+
+EXTERNAL SOURCES:
+  alice:
+    :path: ".symlinks/plugins/alice/ios"
+  Flutter:
+    :path: Flutter
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  open_file:
+    :path: ".symlinks/plugins/open_file/ios"
+  package_info:
+    :path: ".symlinks/plugins/package_info/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  sensors:
+    :path: ".symlinks/plugins/sensors/ios"
+  share:
+    :path: ".symlinks/plugins/share/ios"
+
+SPEC CHECKSUMS:
+  alice: 0f49577498c6d1abee1d488e29d0a79a3e2860a1
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_local_notifications: 9e4738ce2471c5af910d961a6b7eadcf57c50186
+  open_file: 02eb5cb6b21264bd3a696876f5afbfb7ca4f4b7d
+  package_info: 873975fc26034f0b863a300ad47e7f1ac6c7ec62
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  permission_handler: 8278954f2382902f63f00dd8828769c0bd6d511b
+  sensors: 84eb7a30e47a649e4172b71d6e81be614c280336
+  share: 0b2c3e82132f5888bccca3351c504d0003b3b410
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
